@@ -1,2 +1,2 @@
-# NFCU-Projects
+Projects
 Survey data, etc.
